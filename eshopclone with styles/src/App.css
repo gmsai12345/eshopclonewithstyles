@@ -1,0 +1,28 @@
+.logo {
+  height: 50px;
+  width: 129px;
+  border: 1px solid white;
+  margin: 1px 1px 1px 1px;
+  padding: 0px 7px 0.5px;
+  min-height: auto;
+  min-width: auto;
+  display: inline-block;
+  clear: both;
+  cursor: pointer;
+}
+.logo2 {
+  height: 50px;
+  width: 128px;
+  padding: 0px 8px 0.6px;
+  margin: 5px 2px 5px 2px;
+  min-height: auto;
+  min-width: auto;
+  display: inline-block;
+  cursor: pointer;
+}
+.bar1 {
+  background-color: black;
+  border-radius: 25px;
+}
+.cars {
+}
